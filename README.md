@@ -12,11 +12,12 @@
 
 # Link
 Click on the picture to watch the video demonstration!
-[![Watch the video](./img/hw12ss.jpg)](https://drive.google.com/file/d/1NDFLxXlgrtIWWOb2BBVBP_2ZVUjpKu0e/view)
+[Watch part 1](https://drive.google.com/file/d/1ygowy2KVCCIpULw5PpSzsEM23qfyjZ6E/view)
+[Watch part 2](https://drive.google.com/file/d/1k_Ewa1-qAxUMl1VVD9o2fo5kwkcl9b-k/view)
 
 # Description
 
-The purpose of this application is to keep track of all the items created on an e commerce website. Using Node Js, and SQL, the user can individually see each category, product, and tag through the backend. Additionally, information can be added, modified, and deleted.
+The purpose of this application is to keep track of all the items created on an e-commerce website. Using Node Js, and SQL, the user can individually see each category, product, and tag through the backend. Additionally, information can be added, modified, and deleted.
 
 # Installation
 
